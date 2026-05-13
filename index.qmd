@@ -12,6 +12,12 @@ head(iris)
 
 
 
+{{< video https://www.youtube.com/watch?v=Aq5WXmQQooo width="600" height="400" >}}
+
+
+
+
+
 ::: {style="float:left; position: relative; top: 0px"}
 ![](favicon.png){height="100px" style="margin-right: 10px; align: left"}
 :::
